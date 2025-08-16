@@ -24,4 +24,15 @@ It covers how to build, train, and evaluate a regression model step by step with
   - `Height`   
   - `Weight` 
 
+---
+## 🎯 Learning Outcomes
+
+By going through this notebook, you will understand:
+
+- What **Simple Linear Regression** is  
+- How to implement it in Python using **scikit-learn**  
+- When and why to use **standardization** in regression  
+- How to interpret **regression results**  
+- How to visualize **regression models**  
+
 

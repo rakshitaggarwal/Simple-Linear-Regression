@@ -35,4 +35,10 @@ By going through this notebook, you will understand:
 - How to interpret **regression results**  
 - How to visualize **regression models**  
 
+---
+## 🤝 Contributing
+
+Feel free to fork this repo, improve the notebook, or try out different datasets!  
+ 
+
 
